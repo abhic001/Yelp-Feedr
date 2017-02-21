@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  Yelp
 //
-//  Created by William Huang on 1/30/17.
+//  Created by Abhijeet Chakrabarti on 2/20/17.
 //  Copyright © 2017 Timothy Lee. All rights reserved.
 //
 
